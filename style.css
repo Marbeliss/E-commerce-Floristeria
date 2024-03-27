@@ -1,14 +1,37 @@
-.logo {
+*::after,
+*::before,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.navbar {
+
+body{
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: #333;
+
 }
-.icons {
+
+
+
+
+.container-icon {
 }
-.fas {
+.bi {
 }
-.fa-heart {
+.bi-bag {
 }
-.fa-shopping-cart {
+.container-items {
 }
-.fa-user {
+.items {
 }
+.info-product {
+}
+.price {
+}
+
+
+
+
+
